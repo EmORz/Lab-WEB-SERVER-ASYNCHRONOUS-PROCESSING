@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.deps.json
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.runtimeconfig.json
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.dll
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\SliceFile\bin\Debug\netcoreapp2.1\SliceFile.pdb
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.dll
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\SliceFile\obj\Debug\netcoreapp2.1\SliceFile.pdb
