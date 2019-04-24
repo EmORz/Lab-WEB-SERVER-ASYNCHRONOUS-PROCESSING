@@ -9,3 +9,14 @@ C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\1_Even_Number
 C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\1_Even_Numbers_Thread\bin\Debug\netcoreapp2.1\1_Even_Numbers_Thread.pdb
 C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\1_Even_Numbers_Thread\obj\Debug\netcoreapp2.1\1_Even_Numbers_Thread.dll
 C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\1_Even_Numbers_Thread\obj\Debug\netcoreapp2.1\1_Even_Numbers_Thread.pdb
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\1_Even_Numbers_Thread\bin\Debug\netcoreapp2.1\1_Even_Numbers_Thread.deps.json
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\1_Even_Numbers_Thread\bin\Debug\netcoreapp2.1\1_Even_Numbers_Thread.runtimeconfig.json
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\1_Even_Numbers_Thread\bin\Debug\netcoreapp2.1\1_Even_Numbers_Thread.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\1_Even_Numbers_Thread\bin\Debug\netcoreapp2.1\1_Even_Numbers_Thread.dll
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\1_Even_Numbers_Thread\bin\Debug\netcoreapp2.1\1_Even_Numbers_Thread.pdb
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\1_Even_Numbers_Thread\obj\Debug\netcoreapp2.1\1_Even_Numbers_Thread.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\1_Even_Numbers_Thread\obj\Debug\netcoreapp2.1\1_Even_Numbers_Thread.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\1_Even_Numbers_Thread\obj\Debug\netcoreapp2.1\1_Even_Numbers_Thread.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\1_Even_Numbers_Thread\obj\Debug\netcoreapp2.1\1_Even_Numbers_Thread.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\1_Even_Numbers_Thread\obj\Debug\netcoreapp2.1\1_Even_Numbers_Thread.dll
+C:\Users\User\source\repos\Lab_WEB_SERVER _ASYNCHRONOUS_PROCESSING\Lab-WEB-SERVER-ASYNCHRONOUS-PROCESSING\1_Even_Numbers_Thread\obj\Debug\netcoreapp2.1\1_Even_Numbers_Thread.pdb
